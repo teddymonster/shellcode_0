@@ -1,4 +1,6 @@
 This contains the guide from my shellcode level 0 challenge
+Originally part of a live boot usb or preconfigured desktop in the
+exploitation village
 
 it is meant to be done with instruction
 The html is a walkthrough guide. If doing it on your own
